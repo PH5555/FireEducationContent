@@ -42,7 +42,7 @@
 ## 🔶 Scenario3: 부엌에서 불이났다!
 
 <p align="center"> 
-  <img src="https://user-images.githubusercontent.com/47862506/135097571-952d6b7f-56b9-4f93-96a5-f56998be0255.png" alt="Sample signal" width="40%" height="40%">
+  <img src="https://user-images.githubusercontent.com/47862506/135097590-356b36de-d2a8-42b6-8784-1c983255334c.png" alt="Sample signal" width="40%" height="40%">
 </p>
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
