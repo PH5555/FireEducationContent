@@ -3,9 +3,9 @@
 
 <h4 align="center"> 🔥 제4회 전국 고등학교 동아리 소프트웨어 경진대회 금상(1위) </h4>
 
-<!-- <p align="center"> 
-  <img src="https://user-images.githubusercontent.com/47862506/104024613-bb43db80-5206-11eb-9dd3-8823902698e6.gif" alt="Sample signal" width="60%" height="60%">
-</p> -->
+<p align="center"> 
+  <img src="https://user-images.githubusercontent.com/47862506/135095468-6f7af812-a0f9-44b8-8353-9e4bf935148d.gif" alt="Sample signal" width="60%" height="60%">
+</p>
 
 
 ## 📖 About The Project
@@ -23,9 +23,11 @@
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-## ⭐️ Functions
+## ⭐️ Scenario
 
 - 
+
+
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
